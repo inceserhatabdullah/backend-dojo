@@ -1,2 +1,5 @@
 # backend-dojo
-A roadmap repository documenting my journey to become a mid-level backend engineer with Node.js and TypeScript
+A roadmap repository documenting my journey to become a backend engineer.
+
+# [SOLID Prensipleri](./principles.md)
+# [Design Patterns](./patterns.md)
